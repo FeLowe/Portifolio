@@ -1,4 +1,6 @@
-body{
-  background-size: 275px auto;
+ .page-header{
+  margin-bottom: 10px;
+}
+footer{
   color: white;
 }
