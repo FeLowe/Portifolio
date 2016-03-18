@@ -1,6 +1,14 @@
- .page-header{
-  margin-bottom: 10px;
+body{
+  color: red;
+  font-size: 10pt;
+  font-family: helvetica;
+}
+.jumbotron{
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
 }
 footer{
-  color: white;
+  font-size: 12pt;
+  color: black;
 }
